@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerMovement.cs">
+    <Files>
+      <File FileName="../New Unity Project 1/Assets/Speler.cs" Line="23" Column="69" />
+      <File FileName="Assets/Tags.cs" Line="4" Column="36" />
+      <File FileName="Assets/PlayerMovement.cs" Line="18" Column="4" />
+      <File FileName="Assets/CameraMovement.cs" Line="10" Column="2" />
+      <File FileName="Assets/Rotate.cs" Line="15" Column="3" />
+      <File FileName="Assets/PlayerCollision.cs" Line="36" Column="33" />
+      <File FileName="Assets/Global.cs" Line="5" Column="2" />
+      <File FileName="Assets/score.cs" Line="14" Column="44" />
+      <File FileName="Assets/Planedance.cs" Line="13" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

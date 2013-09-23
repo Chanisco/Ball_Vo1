@@ -1,0 +1,12 @@
+/Library
+/Temp   
+    # OS X only:
+    .DS_Store
+    *.swp
+    *.Trashes
+
+    *.csproj
+    *.pidb
+    *.unityproj
+    *.sln
+    *.userprefs
