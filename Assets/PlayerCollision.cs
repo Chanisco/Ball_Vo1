@@ -5,7 +5,6 @@ public class PlayerCollision : MonoBehaviour {
 	
 	
 	public static int count;
-	Vector3 Spawn;
 	public GameObject Lvl1;
 	public GameObject Lvl2;
 	public GameObject Lvl3;
@@ -15,8 +14,7 @@ public class PlayerCollision : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
-		count = 0;
-		Spawn = new Vector3(0,20,0);
+
 	}
 	
 	// Update is called once per frame
